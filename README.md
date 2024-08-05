@@ -1,61 +1,66 @@
 <h1 align="left">👋 Hello World! I'm Kirankumar Kalel</h1>
 
-<h3 align="left">🚀 Passionate Web Developer | Laravel Enthusiast | API Architect</h3>
+<h3 align="left">🚀 PHP Web Developer | Laravel Specialist | B-Tech in Computer Engineering</h3>
 
 <p align="left">
-  Welcome to my coding playground! I'm on a mission to craft elegant, efficient, and scalable web solutions.
+  Transforming ideas into elegant, efficient, and scalable web solutions. Currently crafting digital experiences at Xuark Technology OPC Pvt Ltd.
 </p>
 
-<h2 align="left">💻 Tech Arsenal</h2>
+<h2 align="left">💼 Professional Experience</h2>
+
+<p align="left">
+  <strong>PHP Web Developer</strong> at Xuark Technology OPC Pvt Ltd (06/2023 - Present)<br>
+  • Mastering Laravel: Developing, debugging, and enhancing applications<br>
+  • Proficient with Jira for streamlined project management<br>
+  • Expertise in e-commerce integrations: Ship stations, Bulk buyer, Sellbrite, Inventory, Google Merchant<br>
+  • Thriving under pressure while maintaining excellent customer relationships
+</p>
+
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 </p>
 
-<h2 align="left">🌟 Current Focus</h2>
+<h2 align="left">🎓 Education</h2>
 
 <p align="left">
-  🔥 Mastering Laravel's advanced features and best practices<br>
-  🔧 Building robust and scalable RESTful APIs<br>
-  🎨 Enhancing UI/UX skills with modern front-end technologies
+  <strong>B-Tech in Computer Science and Engineering</strong><br>
+  Punyashlok Ahilyadevi Holkar University, Solapur (2018 - 2022)<br>
+  GPA: 9.26/10
 </p>
 
-<h2 align="left">🎯 Goals</h2>
+<h2 align="left">🏆 Achievements</h2>
 
 <p align="left">
-  • Contribute to open-source Laravel projects<br>
-  • Develop a comprehensive Laravel package<br>
-  • Achieve Laravel certification to solidify expertise
+  • Solved 100+ problems on LeetCode (Database, C)<br>
+  • Winner of state-level Blind C Technical event<br>
+  • Microsoft Certified: Career Essentials in Generative AI
 </p>
 
-<h2 align="left">🛠️ Tools of the Trade</h2>
+<h2 align="left">🚀 Notable Projects</h2>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" title="Laravel">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="CodeIgniter" title="CodeIgniter">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" title="Visual Studio Code">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="Composer" title="Composer">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman">
+  <strong>AI-Based Attendance System Using Face Recognition (2022)</strong><br>
+  Automated attendance marking system leveraging face detection and recognition algorithms.<br><br>
+  <strong>Blockchain-Based Online Voting System (2021)</strong><br>
+  Decentralized, secure, and transparent voting system ensuring voter privacy and result integrity.
+</p>
+
+<h2 align="left">💪 Core Strengths</h2>
+
+<p align="left">
+  • Self-driven excellence: Consistently exceeding expectations and deadlines<br>
+  • Collaborative teamwork: Fostering positive team dynamics and collective success<br>
+  • Adaptability: Thriving in fast-paced environments and embracing new technologies
 </p>
 
 <h2 align="left">📊 GitHub Stats</h2>
@@ -64,23 +69,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kirankumarkalel&show_icons=true&theme=radical" alt="Kirankumar's GitHub stats">
 </p>
 
-<h2 align="left">🎲 Fun Fact</h2>
-
-<p align="left">
-  Did you know? The Laravel framework is named after a bird species called the Lark! Just like how Larks are known for their beautiful songs, Laravel is praised for its elegant syntax. 🐦🎵
-</p>
-
 <h2 align="left">🤝 Let's Connect</h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/kirankumarkalel" target="_blank">
+  <a href="https://www.linkedin.com/in/kirankumar-kalel-020076219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/kirankumarkalel" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="mailto:kirankumarkalel17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 <p align="left">
-  💼 Open for exciting web development opportunities and collaborations!
+  📞 +91 9545777306 | 📍 Solapur, Maharashtra
+</p>
+
+<p align="left">
+  💼 Open to exciting web development opportunities and collaborations!
 </p>
