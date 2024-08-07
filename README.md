@@ -3,13 +3,13 @@
 <h3 align="left">🚀 PHP Web Developer | Laravel Specialist | B-Tech in Computer Engineering</h3>
 
 <p align="left">
-  Transforming ideas into elegant, efficient, and scalable web solutions. Currently crafting digital experiences at Xuark Technology OPC Pvt Ltd.
+  Transforming ideas into elegant, efficient, and scalable web solutions. 
 </p>
 
 <h2 align="left">💼 Professional Experience</h2>
 
 <p align="left">
-  <strong>PHP Web Developer</strong> at Xuark Technology OPC Pvt Ltd (06/2023 - Present)<br>
+  <strong>PHP Web Developer</strong><br>
   • Mastering Laravel: Developing, debugging, and enhancing applications<br>
   • Proficient with Jira for streamlined project management<br>
   • Expertise in e-commerce integrations: Ship stations, Bulk buyer, Sellbrite, Inventory, Google Merchant<br>
